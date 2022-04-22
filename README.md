@@ -1,0 +1,2 @@
+# SwingTrading
+Daily Universe
